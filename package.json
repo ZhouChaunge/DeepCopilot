@@ -394,7 +394,7 @@
     "@vscode/vsce": "^2.24.0",
     "danger": "^13.0.7",
     "dompurify": "^3.4.2",
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "eslint": "^8.57.0",
     "katex": "^0.16.45"
   },
